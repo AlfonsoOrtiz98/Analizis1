@@ -1,0 +1,9 @@
+C:\Users\Programacion\AppData\Local\Temporary Projects\Analizis 1\bin\Debug\Analizis 1.exe
+C:\Users\Programacion\AppData\Local\Temporary Projects\Analizis 1\bin\Debug\Analizis 1.pdb
+C:\Users\Programacion\AppData\Local\Temporary Projects\Analizis 1\bin\Debug\Analizis 1.xml
+C:\Users\Programacion\AppData\Local\Temporary Projects\Analizis 1\obj\x86\Debug\Analizis_1.Form1.resources
+C:\Users\Programacion\AppData\Local\Temporary Projects\Analizis 1\obj\x86\Debug\Analizis_1.Resources.resources
+C:\Users\Programacion\AppData\Local\Temporary Projects\Analizis 1\obj\x86\Debug\Analizis 1.vbproj.GenerateResource.Cache
+C:\Users\Programacion\AppData\Local\Temporary Projects\Analizis 1\obj\x86\Debug\Analizis 1.exe
+C:\Users\Programacion\AppData\Local\Temporary Projects\Analizis 1\obj\x86\Debug\Analizis 1.xml
+C:\Users\Programacion\AppData\Local\Temporary Projects\Analizis 1\obj\x86\Debug\Analizis 1.pdb
